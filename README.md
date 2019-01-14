@@ -6,4 +6,4 @@ Anomaly Detection
 
 Links 
 -----
--  Visualizing K-Means Clustering - [link](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+-  Visualizing K-Means Clustering &nbsp; [*link*](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
