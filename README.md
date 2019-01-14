@@ -3,13 +3,8 @@ Anomaly Detection
 
 
 
-[![Build Status](https://api.travis-ci.org/python/mypy.svg?branch=master)](https://travis-ci.org/python/mypy)
-
-
-
-
 Got 
-----------------------------------
+---
 
 
 
