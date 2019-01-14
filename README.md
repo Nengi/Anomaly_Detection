@@ -1,16 +1,15 @@
-# Anomaly Detection
-
-
-
 Anomaly Detection
-=======================================
+=================
+
+
 
 [![Build Status](https://api.travis-ci.org/python/mypy.svg?branch=master)](https://travis-ci.org/python/mypy)
-[![Chat at https://gitter.im/python/typing](https://badges.gitter.im/python/typing.svg)](https://gitter.im/python/
 
-Got a question? Join us on Gitter!
+
+
+
+Got 
 ----------------------------------
-
 
 
 
