@@ -1,17 +1,10 @@
 Anomaly Detection
 =================
+<br>
 
 
 
-Got 
----
-
-
-
-Tests
+Links 
 -----
-
-The basic way to run tests:
-
-For more on the tests, see [Test README.md](test-data/unit/README.md)
-
+<br>
+[Visualizing K-Means Clustering](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
