@@ -21,6 +21,8 @@ Some Details
 
 - [sklearn.cluster.DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) and [demo-py](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
 
+<br>
+
 Clustering Example Types
 ------------------------
 [click](https://scikit-learn.org/stable/modules/clustering.html)
