@@ -12,7 +12,7 @@ Links
 -  Unsupervised Anomaly Detection with Isolation Forest . . . . . . [*link*](https://www.youtube.com/watch?v=5p8B2Ikcw-k)
 -  DBSCAN Article - Evan Lutins  . . . . . . . . . . . . . . . . . . . . . . . . . . . . [*link*](https://medium.com/@elutins/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818)
 -  Original DBSCAN paper (1996) - hardcore . . . . . . . . . . . . . . . . . [*link*](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
--  Superior Pattern Processing (SPP) in humans . . . . . . . . . . . . . . . [*link*](https://www.frontiersin.org/articles/10.3389/fnins.2014.00265/full)
+-  Superior Pattern Processing (SPP) in humans . . . . . . . . . . . . . . [*link*](https://www.frontiersin.org/articles/10.3389/fnins.2014.00265/full)
 
 <br>
 
