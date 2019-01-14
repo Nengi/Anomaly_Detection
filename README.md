@@ -23,4 +23,5 @@ Some Details
 
 Clustering Example Types
 ------------------------
+[click](https://scikit-learn.org/stable/modules/clustering.html)
 ![](https://scikit-learn.org/stable/_images/sphx_glr_plot_cluster_comparison_0011.png)
