@@ -16,12 +16,38 @@ Links
 
 <br>
 
+
 Some Details 
 ------------
 
 - [sklearn.cluster.DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) and [demo-py](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
 
+
 <br>
+
+
+Splunk Machine Learning Tool Kit (MLTK) Links
+------------------------
+-  Splunk main user manual for MLTK - [link]()
+-  Splunk MLTK cheatsheet - [link](https://docs.splunk.com/images/e/ee/MLTKCheatSheet.pdf)
+
+
+
+<br>
+
+
+Splunk Machine Learning Tool Kit (MLTK) Links
+---------------------------------------------
+
+1. Download Splunk Enterprise free - [link](https://www.splunk.com/en_us/download/splunk-enterprise.html)
+2. Download add-on MLTK and other cool apps - [link](https://splunkbase.splunk.com/app/2890/)
+3. Go crazy 
+
+
+
+<br>
+
+
 
 Clustering Example Types
 ------------------------
