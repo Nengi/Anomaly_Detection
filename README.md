@@ -40,8 +40,10 @@ Splunk Machine Learning Tool Kit (MLTK) Getting Started
 ---------------------------------------------
 
 1. Download Splunk Enterprise free - [link](https://www.splunk.com/en_us/download/splunk-enterprise.html)
-2. Download add-on MLTK and other cool apps - [link](https://splunkbase.splunk.com/app/2890/)
-3. Go crazy 
+2. Download prereq Splunk Python for Scientific Computing - [link](https://splunkbase.splunk.com/app/2882/)
+3. Download add-on MLTK and other cool apps - [link](https://splunkbase.splunk.com/app/2890/)
+4. Go crazy 
+
 
 
 
