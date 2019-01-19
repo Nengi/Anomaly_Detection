@@ -36,7 +36,7 @@ Splunk Machine Learning Tool Kit (MLTK) Links
 <br>
 
 
-Splunk Machine Learning Tool Kit (MLTK) Links
+Splunk Machine Learning Tool Kit (MLTK) Getting Started
 ---------------------------------------------
 
 1. Download Splunk Enterprise free - [link](https://www.splunk.com/en_us/download/splunk-enterprise.html)
