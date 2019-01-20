@@ -41,9 +41,10 @@ Splunk Machine Learning Tool Kit (MLTK) - How to get started !
 
 1. Download Splunk Enterprise free - [link](https://www.splunk.com/en_us/download/splunk-enterprise.html)
 2. After you have it installed, you will need to add a couple software packages. Go the main program, and on the left hand side you will see "Find more Apps", and you will search for each of the two packages below. 
-2. Download prereq Splunk Python for Scientific Computing - [direct link](https://splunkbase.splunk.com/app/2882/)
-3. Download add-on MLTK - [direct link](https://splunkbase.splunk.com/app/2890/)
-4. Go crazy 
+3. Download prereq `Splunk Python for Scientific Computing` - [direct link](https://splunkbase.splunk.com/app/2882/)
+4. Download add-on `Splunk Machine Learning Toolkit` - [direct link](https://splunkbase.splunk.com/app/2890/)
+5. Once you have both those packages installed, just click on the `Splunk Machine Learning Toolkit` red icon button
+6. I would suggest starting with the worked examples called `Showcase` in the toolbar (upper left)
 
 
 
