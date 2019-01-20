@@ -7,6 +7,7 @@ Links
 -----
 
 -  Visualizing K-Means Clustering . . . . . . . . . . . . . . . . . . . . . . . . . . . [*link*](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+-  Stanford visualization k-means clustering . . . . . . . . . . . . . . . . . . [*link*](www.stanford.edu)
 -  Visualizing DBSCAN Clustering . . . . . . . . . . . . . . . . . . . . . . . . . . . [*link*](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 -  Numenta Anomaly Benchmark (NAB)  . . . . . . . . . . . . . . . . . . . . . [*link*](https://github.com/numenta/NAB)
 -  Unsupervised Anomaly Detection with Isolation Forest . . . . . . [*link*](https://www.youtube.com/watch?v=5p8B2Ikcw-k)
@@ -14,7 +15,9 @@ Links
 -  Original DBSCAN paper (1996) - hardcore . . . . . . . . . . . . . . . . . [*link*](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 -  Superior Pattern Processing (SPP) in humans . . . . . . . . . . . . . . . [*link*](https://www.frontiersin.org/articles/10.3389/fnins.2014.00265/full)
 
+
 <br>
+
 
 
 Some Details 
@@ -23,13 +26,19 @@ Some Details
 - [sklearn.cluster.DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) and [demo-py](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
 
 
+
+
 <br>
 
 
 Splunk Machine Learning Tool Kit (MLTK) Links
 ------------------------
--  Splunk main user manual for MLTK - [link]()
+-  Splunk main user manual for MLTK - [link](https://docs.splunk.com/Documentation/MLApp/latest/User/About)
+-  Main MLTK cheatsheet - [link](https://www.splunk.com/pdfs/solution-guides/machine-learning-quick-ref-guide.pdf)
 -  Splunk MLTK cheatsheet - [link](https://docs.splunk.com/images/e/ee/MLTKCheatSheet.pdf)
+-  Splunk ML-SPL API Guide - [link](https://docs.splunk.com/Documentation/MLApp/latest/API/Introduction)
+-  Contributing custom algorithms for others to import/use - [link](https://github.com/splunk/mltk-algo-contrib)
+
 
 
 
