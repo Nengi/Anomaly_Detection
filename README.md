@@ -20,24 +20,13 @@ Links
 
 
 
-Some Details 
-------------
-
-- [sklearn.cluster.DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) and [demo-py](https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py)
-
-
-
-
-<br>
-
-
 Splunk Machine Learning Tool Kit (MLTK) Links
 ------------------------
 -  Splunk main user manual for MLTK - [link](https://docs.splunk.com/Documentation/MLApp/latest/User/About)
 -  Main MLTK cheatsheet - [link](https://www.splunk.com/pdfs/solution-guides/machine-learning-quick-ref-guide.pdf)
 -  Splunk MLTK cheatsheet - [link](https://docs.splunk.com/images/e/ee/MLTKCheatSheet.pdf)
 -  Splunk ML-SPL API Guide - [link](https://docs.splunk.com/Documentation/MLApp/latest/API/Introduction)
--  Contributing custom algorithms for others to import/use - [link](https://github.com/splunk/mltk-algo-contrib)
+-  [Github] Contributing custom ML algorithms for others to import/use into Splunk MLTK  - [link](https://github.com/splunk/mltk-algo-contrib)
 
 
 
@@ -45,14 +34,16 @@ Splunk Machine Learning Tool Kit (MLTK) Links
 <br>
 
 
-Splunk Machine Learning Tool Kit (MLTK) Getting Started
+
+
+Splunk Machine Learning Tool Kit (MLTK) - How to get started ! 
 ---------------------------------------------
 
 1. Download Splunk Enterprise free - [link](https://www.splunk.com/en_us/download/splunk-enterprise.html)
-2. Download prereq Splunk Python for Scientific Computing - [link](https://splunkbase.splunk.com/app/2882/)
-3. Download add-on MLTK and other cool apps - [link](https://splunkbase.splunk.com/app/2890/)
+2. After you have it installed, you will need to add a couple software packages. Go the main program, and on the left hand side you will see "Find more Apps", and you will search for each of the two packages below. 
+2. Download prereq Splunk Python for Scientific Computing - [direct link](https://splunkbase.splunk.com/app/2882/)
+3. Download add-on MLTK - [direct link](https://splunkbase.splunk.com/app/2890/)
 4. Go crazy 
-
 
 
 
