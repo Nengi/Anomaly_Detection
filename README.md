@@ -14,7 +14,7 @@ Links
 -  DBSCAN Article - Evan Lutins  . . . . . . . . . . . . . . . . . . . . . . . . . . . . [*link*](https://medium.com/@elutins/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818)
 -  Original DBSCAN paper (1996) - hardcore . . . . . . . . . . . . . . . . . [*link*](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 -  Superior Pattern Processing (SPP) in humans . . . . . . . . . . . . . . . [*link*](https://www.frontiersin.org/articles/10.3389/fnins.2014.00265/full)
-
+- Really good preso from PyData 2018 on AD (Nick Radcliffe) . . . . . . . . . [*link*(https://www.youtube.com/watch?v=B5mPqFOx09U)
 
 <br>
 
