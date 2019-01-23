@@ -31,7 +31,7 @@ Machine Learning Tool Kit (MLTK) Main Links (Generic)
 ------------------------
 -  Main user manual for MLTK - [link](https://docs.splunk.com/Documentation/MLApp/latest/User/About)
 -  Main MLTK cheatsheet - [link](https://www.splunk.com/pdfs/solution-guides/machine-learning-quick-ref-guide.pdf)
--  [Github] Contributing custom ML algorithms for others to import/use into Splunk MLTK  - [link](https://github.com/splunk/mltk-algo-contrib)
+-  [Github] Contributing custom ML algorithms for others to import/use into MLTK  - [link](https://github.com/splunk/mltk-algo-contrib)
 
 
 
