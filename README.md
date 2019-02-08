@@ -26,6 +26,17 @@ Links
 
 
 
+Contact Information
+------------------------
+-  email:  tom.bresee@gmail.com
+-  github:  https://github.com/tombresee
+-  linkedin:  
+
+
+
+<br>
+
+
 
 Machine Learning Tool Kit (MLTK) Main Links (Generic)
 ------------------------
